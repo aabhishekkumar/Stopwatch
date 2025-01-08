@@ -1,2 +1,2 @@
 # Stopwatch
-first project stopwatch
+Evtng you need to know about js logic build.
