@@ -1,2 +1,2 @@
 # Stopwatch
-Evtng you need to know about js logic build.
+Evtng you need to know about js logic build
